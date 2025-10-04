@@ -1,0 +1,2 @@
+# HypeSquad-SetupScript
+HypeSquadの設定が廃止されたのでAPI叩いて変更するスクリプトを作りました
